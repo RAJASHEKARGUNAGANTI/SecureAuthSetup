@@ -1,0 +1,65 @@
+/* src/styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Satoshi Variable';
+    src: url('../fonts/Satoshi-Variable.ttf') format('truetype');
+    font-weight: 100 900; /* for variable font */
+    font-display: swap;
+}
+/* .gradient-bg {
+    background: linear-gradient(to right, #fef9e7, #ecf0ec, #e6f4e6);
+  }
+  .primaryBgColor{
+    background: #03200E;
+}
+.primaryColor{
+    color: #03200E;
+}
+.secondaryColor{
+    color:#86E7B8 ;
+}
+.thardColor{
+    color: #53D495;
+} */
+/* Define keyframes for left to right scroll */
+/* @keyframes scrollLeftToRight {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  /* Define keyframes for right to left scroll */
+  /* @keyframes scrollRightToLeft {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  } */ 
+  
+  /* Apply the animations
+  .animate-scroll-left-to-right {
+    display: inline-flex;
+    white-space: nowrap;
+    animation: scrollLeftToRight 20s linear infinite;
+  }
+  
+  .animate-scroll-right-to-left {
+    display: inline-flex;
+    white-space: nowrap;
+    animation: scrollRightToLeft 20s linear infinite;
+  } */
+  
+ 
+  
+
+
+  
