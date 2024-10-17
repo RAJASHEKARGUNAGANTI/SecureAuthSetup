@@ -19,7 +19,7 @@ function App() {
   return (
    <div >
    <React.StrictMode>
-   <GoogleOAuthProvider clientId="257119307207-9bm6678obshmbvkohuufos9eic6mm6rd.apps.googleusercontent.com">
+   <GoogleOAuthProvider clientId=GOOGLE_CLIENT_ID>
    <ToastProvider>
      <Router>
      
